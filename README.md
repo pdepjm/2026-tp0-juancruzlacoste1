@@ -7,3 +7,4 @@ Acerca de mi:
   - Mi tia es ingeniera en sistemas graduada de la UTN en la misma regional, por lo que de chico estuve interesado en las carreras de ingenieria, me gusta saber el porque de las cosas y su funcionamiento, odio leer y esa fue una de las cosas por las que elegi la carrera
   - Mi comida favorita es la ensalada griega y mi postre favorito la torta de los 80 golpes (o hungara)
 
+![imagen torta](https://github.com/pdepjm/2026-tp0-juancruzlacoste1/blob/66e8aaffb6eb1bf859f4eaad6baab15f366a5033/torta.webp)
